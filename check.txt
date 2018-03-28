@@ -1,0 +1,6 @@
+{
+  number: "9",
+  obj: {
+    number: "9"
+  }
+}
